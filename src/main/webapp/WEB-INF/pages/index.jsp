@@ -25,7 +25,7 @@
 <html>
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <title> A sample web app</title>
+    <title> Hello Everyone! Welcome to my channel.</title>
     <meta name="viewport" content="initial-scale=1.0">
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'>
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
@@ -34,11 +34,11 @@
 <body role="document">
   <div class="container theme-showcase" role="main">
     <div class="jumbotron">
-      <h1>A Sample web application:</h1>
+      <h1>A Java Application deployed using the automation tools: Codecommit, Codebuild, CodeDeploy, CodePipeline:</h1>
       <p><i>Why can't application deployment be soooooo easy?</i></p>
     </div>
     <div class="page-header">
-      <h1>Our Products</h1>
+      <h1>Here's an explanation of all the services that I used in this project.</h1>
     </div>
     <div class="panel panel-default" >
       <div class="row">
